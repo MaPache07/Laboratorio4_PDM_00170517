@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fake Cine</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="rate">Rate</string>
+    <string name="lorem">Lorem insup dolor</string>
+    <string name="runtime">Runtime</string>
+</resources>
